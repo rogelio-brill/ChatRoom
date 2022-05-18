@@ -1,0 +1,23 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "Real-time chatroom using Firebase",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^9.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogelio-brill/ChatRoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogelio-brill/ChatRoom/issues"
+  },
+  "homepage": "https://github.com/rogelio-brill/ChatRoom#readme"
+}
